@@ -1,16 +1,19 @@
-# kutuphanem
+#  My Library App
 
-A new Flutter project.
+A mobile application developed with Flutter that helps users organize and manage their personal book collection. Users can securely log in, add books, search through their collection, and manage book categories and notes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User authentication with Firebase
+- Add, edit, and delete books
+- Search books by title or author
+- Categorize books
+- View and search book notes
+- Responsive and intuitive user interface
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (Dart)
+- Firebase Authentication
+- Cloud Firestore
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
